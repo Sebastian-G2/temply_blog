@@ -1,0 +1,24 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Temply.studio Blog"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "Helping you build beautiful, high-performance websites on Carrd."
+  copyright = "© 2025 Temply.studio"
+
+[params.author]
+  name = "Sebastian Garcia"
+  email = "sebastian@temply.studio"
+  headline = "Founder of Temply.studio"
+  bio = "Helping you build beautiful, high-performance websites on Carrd."
+  links = [
+    { link = "https://temply.studio/" },
+  ]
