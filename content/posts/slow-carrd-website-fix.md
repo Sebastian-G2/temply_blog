@@ -20,8 +20,8 @@ Here’s a simple, free, and effective way to fix it. We're going to compress yo
 **Your 5-Minute Action Plan:**
 
 1.  **Go to [TinyPNG.com](https://tinypng.com/).** This free tool is my go-to for quick and powerful image compression. It reduces file sizes significantly without a noticeable drop in quality.
-2.  **Upload Your Images.** Drag and drop the images you're using on your Carrd site onto the page. You can do up to 20 at a time.
-3.  **Download the Compressed Files.** TinyPNG will work its magic and give you a download link for the much smaller image files.
+2.  **Upload your images.** Drag and drop the images you're using on your Carrd site onto the page. You can do up to 20 at a time.
+3.  **Download the compressed files.** TinyPNG will work its magic and give you a download link for the much smaller image files.
 4.  **Re-upload to Carrd.** Go back to your Carrd editor, remove the old, heavy images, and replace them with the new, lightweight ones you just downloaded.
 5.  **Publish your changes.**
 
